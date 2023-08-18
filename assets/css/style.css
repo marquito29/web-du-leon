@@ -1058,6 +1058,11 @@ header .container {
     align-items: center;
   }
 
+  img{
+    width:100%;
+    height: auto;
+  }
+
   .navbar-list {
     display: flex;
     justify-content: center;
@@ -1313,6 +1318,7 @@ header .container {
    * FOOTER
    */
 
+   .logo-footer{width: 150px;}
   .footer-brand { max-width: 350px; }
 
   .footer-top .h4 { --fs-5: 20px; }
