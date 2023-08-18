@@ -23,7 +23,7 @@ Ionicon
 --medium-sea-green: hsl(157, 100%, 36%);
 --silver-chalice: hsl(0, 0%, 66%); 
 --granite-gray: hsl(0, 0%, 40%);
---sonic-silver: hsl(208, 7%, 30%);
+--sonic-silver: hsl(208, 7%, 0%);
 --dodger-blue: hsl(205, 100%, 50%);
 --oxford-blue: hsl(219, 37%, 18%);
 --light-gray: hsl(0, 0%, 80%);
