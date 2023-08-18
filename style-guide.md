@@ -31,6 +31,7 @@ Ionicon
 --cultured: hsl(210, 12%, 97%);
 --charcoal: hsl(210, 29%, 24%);
 --white: hsl(0, 0%, 100%);
+--black: hls(0, 0%, 0%);
 --jet: hsl(0, 0%, 20%);
 
 --gradient: linear-gradient(0.5turn, hsl(213, 42%, 91%), hsl(0, 0%, 100%));
