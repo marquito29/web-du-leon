@@ -503,6 +503,16 @@ header .container {
 .faq-list:first-child,
 .faq-list > li:not(:last-child) { margin-bottom: 30px; }
 
+.faq-list > li > h3 > a {
+  color:#ff573d!important;
+  display: contents;
+}
+
+.faq-list > li > a:hovered {
+  color: #ff573d;
+}
+
+
 .faq-item-list { margin-left: 18px; }
 
 .faq-item-list li { list-style: disc; }
