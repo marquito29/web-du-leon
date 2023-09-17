@@ -69,9 +69,9 @@
 
 
 /*CUStom*/
-.logo-first:hover  {
+/*.logo-first:hover  {
 
-  -webkit-filter: grayscale(0%); /* Chrome, Safari, Opera */
+  -webkit-filter: grayscale(0%); /* Chrome, Safari, Opera 
   filter: grayscale(0%);
   -webkit-transition:all 0.8s;
   transition:all 0.8s;
@@ -80,11 +80,11 @@
   
   .logo-first{
   
-  -webkit-filter: grayscale(100%); /* Chrome, Safari, Opera */
+  -webkit-filter: grayscale(100%); /* Chrome, Safari, Opera 
   filter: grayscale(100%);
   -webkit-transition:all 0.8s;
   transition:all 0.8s;
-}
+}*/
 
 .black{
   color:black!important;
